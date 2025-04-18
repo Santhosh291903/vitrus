@@ -1,0 +1,15 @@
+{
+    "WEBHOOK_URL": "<WEBHOOK_URL>",
+    "DB_HOST_WEBSITE_STATUS": "localhost",
+    "DB_NAME_WEBSITE_STATUS": "<DB_NAME>",
+    "DB_USER_WEBSITE_STATUS": "<DB_USER>",
+    "DB_PASSWORD_WEBSITE_STATUS": "password",
+    "DB_HOST_DB_MONITORING": "localhost",
+    "DB_NAME_DB_MONITORING": "<DB_NAME>",
+    "DB_USER_DB_MONITORING": "<DB_USER>",
+    "DB_PASSWORD_DB_MONITORING": "password",
+    "URL_1": "https://url_1,https://url_2",
+    "PROJECT_NAME": "ProjectName",
+    "DB_NAME": "PSQL",
+    "server_name": "builder"
+}
