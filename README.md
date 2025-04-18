@@ -22,7 +22,7 @@ A Python-based monitoring solution that tracks website uptime, SSL certificates,
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/system-db-monitor.git
+   git clone 
    cd system-db-monitor
 Install dependencies:
 
