@@ -6,13 +6,13 @@ import pytz
 # Database configuration
 DB_CONFIG = {
     "host": "localhost",
-    "dbname": "app",
-    "user": "udhia",
+    "dbname": "<dbname>",
+    "user": "<user>",
     "password": "simplepass"
 }
 
 # Google Chat webhook URL
-WEBHOOK_URL = "https://chat.googleapis.com/v1/spaces/AAAA0q_7a84/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=2sgTj39vsGjHblKJrS_pAKTiHPxXi08Z-LG0lHmma4I"
+WEBHOOK_URL = "<WEBHOOK_URL>"
 
 def log(message):
     """Helper function for consistent logging format"""
