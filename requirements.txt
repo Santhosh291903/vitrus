@@ -1,0 +1,17 @@
+# Core Packages
+requests==2.31.0          # For HTTP requests and Google Chat alerts
+psycopg2-binary==2.9.9    # PostgreSQL database adapter
+python-dotenv==1.0.0      # Optional: For .env support (if added later)
+
+# System Monitoring
+psutil==5.9.5             # CPU/Memory/Disk metrics
+shutil==1.0.0             # Built-in (no version needed, listed for transparency)
+
+# SSL/TLS
+pyOpenSSL==23.2.0         # SSL certificate checks (alternative to built-in ssl)
+
+# Timezone Handling
+pytz==2023.3              # Timezone conversions (Asia/Kolkata)
+
+# JSON/Config
+json==2.0.9               # Built-in (listed for transparency)
