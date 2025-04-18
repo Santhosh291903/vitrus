@@ -2,7 +2,6 @@
 
 A Python-based monitoring solution that tracks website uptime, SSL certificates, PostgreSQL databases, and server health metrics. Sends real-time alerts via Google Chat when issues are detected.
 
-![Monitoring Dashboard](https://via.placeholder.com/800x400?text=Sample+Monitoring+Dashboard) *(Replace with actual screenshot)*
 
 ## Features ✨
 
